@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062224275249",
+    "project_id": "pig-client-d32fc",
+    "storage_bucket": "pig-client-d32fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062224275249:android:ee102c37332e6c21d47210",
+        "android_client_info": {
+          "package_name": "com.example.pigadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Pu5-Csc0PCc72m1PpJO9O1XiDgdIfLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062224275249:android:ea15bbddfba403b9d47210",
+        "android_client_info": {
+          "package_name": "com.example.pigclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Pu5-Csc0PCc72m1PpJO9O1XiDgdIfLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
